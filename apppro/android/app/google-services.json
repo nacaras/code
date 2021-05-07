@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917906284818",
+    "firebase_url": "https://banana-2b8f2.firebaseio.com",
+    "project_id": "banana-2b8f2",
+    "storage_bucket": "banana-2b8f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917906284818:android:86cd3e0aed00fb415653cb",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.apppro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917906284818-n84je8kna087vpjfnphq82sqb2c0khb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8M5qJzKXxLNl9pSzkUpgXukhMRQ8nnhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917906284818-n84je8kna087vpjfnphq82sqb2c0khb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
